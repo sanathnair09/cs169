@@ -1,7 +1,7 @@
 # UCI CS 169/268 Fall 2023
 
 ## About
-This is all the files/work for CS 169. There were no quizes for our quarter even though it is mentioned in the sylabus.
+This is all the files/work for CS 169. There were ***no quizes for our quarter*** even though it is mentioned in the sylabus. ***Attendance was required***, an attendance sheet was passed during class where you had to sign. In addition, participation was graded on an honor system and was a check on the attendance sheet.
 
 ## Files
 ```
@@ -19,6 +19,7 @@ ics169
 - HW 1: Golden Section Method
 - HW 2: Gradient Descent & Conjugate Gradient
 - HW 3: Quasi-Newton Method 
+- HW 4: Constrained Optimization
 
 ## Midterm
 - 5 questions
