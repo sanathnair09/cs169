@@ -1,1 +1,7 @@
 ./notes/*
+final/__pycache__/*
+final/data/__pycache__/*
+.env
+.idea/
+.vscode/
+.DS_Store
